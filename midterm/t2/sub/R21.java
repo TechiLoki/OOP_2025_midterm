@@ -1,7 +1,7 @@
-package t2.sub;
+package midterm.t2.sub;
 
-import t2.toaster.A21;
-import t2.fruit.orchestra.A22;
+import midterm.t2.fruit.orchestra.A22;
+import midterm.t2.toaster.A21;
 
 public class R21 {
     
@@ -15,7 +15,6 @@ public class R21 {
         System.out.println("Width: " + width);
         System.out.println("Height: " + height);
 		System.out.println("The area of the rectangle is: " + width*height);
-
 
         int month = obj_A22.getMonth();
 	

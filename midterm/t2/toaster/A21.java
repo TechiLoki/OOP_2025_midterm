@@ -1,4 +1,4 @@
-package t2.toaster;
+package midterm.t2.toaster;
 
 public class A21 {
     private int width = 23;

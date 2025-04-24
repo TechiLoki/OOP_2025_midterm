@@ -1,4 +1,4 @@
-package midterm.task1;
+package midterm.t1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
